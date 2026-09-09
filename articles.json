@@ -1,0 +1,142 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "originalTitle": "Longest border",
+      "category": "地理",
+      "imageUrl": "https://www.ici.fr/pikapi/images/93109cd7-0894-4436-b2da-a51f87271e98/1200x680?webp=false",
+      "levels": {
+        "A1": {
+          "title": "Le plus grand voisin de la France",
+          "content": "La France a une très longue frontière. Normalement, on pense à l'Espagne. Mais la vraie réponse est le Brésil. C'est bizarre, mais c'est vrai grâce à la Guyane française. Ce territoire est en Amérique du Sud. Il y a 730 kilomètres de frontière avec le Brésil dans la grande forêt. C'est plus grand que la frontière avec l'Espagne, qui fait 623 kilomètres. La Guyane est un département français depuis 1946. Les habitants sont des citoyens européens. Ils achètent avec l'euro. Alors, l'Union européenne touche la forêt amazonienne. Aussi, le plus grand parc national de France est en Guyane. Il y a des jaguars et des anacondas. La France n'est pas seulement en Europe, elle est sur plusieurs continents.",
+          "quiz": [
+            {
+              "text": "Quel pays partage la plus longue frontière avec la France ?",
+              "options": {
+                "A": "L'Espagne",
+                "B": "L'Allemagne",
+                "C": "Le Brésil",
+                "D": "L'Italie"
+              },
+              "answer": "C"
+            },
+            {
+              "text": "Où se trouve le plus grand parc national de France ?",
+              "options": {
+                "A": "Dans les Alpes",
+                "B": "En Guyane",
+                "C": "À Paris",
+                "D": "En Espagne"
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        "A2": {
+          "title": "Une frontière surprenante en Amérique du Sud",
+          "content": "Quand on cherche la plus longue frontière de la France, on pense souvent à l'Espagne ou à l'Italie. Pourtant, le gagnant est le Brésil. Ce mystère s'explique par la Guyane française. Ce territoire se trouve en Amérique du Sud. Il partage 730 kilomètres de frontière avec le Brésil au milieu de la forêt amazonienne. Cette distance dépasse la frontière franco-espagnole de 623 kilomètres. Il faut savoir que la Guyane est un département français depuis 1946. Les gens là-bas sont des citoyens européens et ils utilisent l'euro. Ainsi, l'Union européenne a une frontière directe avec la jungle. De plus, le plus grand parc national français n'est pas dans les Alpes, mais en Guyane. On y trouve des jaguars et des anacondas. La France est donc présente sur plusieurs continents.",
+          "quiz": [
+            {
+              "text": "Quelle est la longueur de la frontière entre la Guyane et le Brésil ?",
+              "options": {
+                "A": "623 kilomètres",
+                "B": "730 kilomètres",
+                "C": "1946 kilomètres",
+                "D": "2026 kilomètres"
+              },
+              "answer": "B"
+            },
+            {
+              "text": "Depuis quelle année la Guyane est-elle un département français ?",
+              "options": {
+                "A": "1846",
+                "B": "1900",
+                "C": "1946",
+                "D": "1958"
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        "B1": {
+          "title": "Le secret géographique de la frontière brésilienne",
+          "content": "Si l'on se demande quel pays partage la plus grande frontière avec la France, l'Espagne ou l'Allemagne viennent immédiatement à l'esprit. Pourtant, la réponse surprenante est le Brésil. Ce paradoxe existe grâce à la Guyane française. Située en Amérique du Sud, cette région partage 730 kilomètres de limite avec le Brésil au cœur de la forêt amazonienne. Cette distance est plus longue que la frontière avec l'Espagne, qui mesure 623 kilomètres. Il est important de noter que la Guyane n'est pas une simple colonie, mais un département français depuis 1946. Ses habitants possèdent la citoyenneté européenne et paient en euros. Par conséquent, l'Union européenne possède une frontière directe avec la jungle. En outre, le plus grand parc national français se situe en Guyane et protège des animaux comme les jaguars. Cela montre que la France s'étend bien au-delà de l'Europe.",
+          "quiz": [
+            {
+              "text": "Pourquoi la frontière avec le Brésil est-elle possible pour la France ?",
+              "options": {
+                "A": "À cause des départements d'outre-mer comme la Guyane",
+                "B": "Grâce à un accord récent avec l'Espagne",
+                "C": "Parce que la France a acheté une partie de l'Amazonie en 1946",
+                "D": "Parce que l'Europe contrôle toute l'Amérique du Sud"
+              },
+              "answer": "A"
+            },
+            {
+              "text": "Qu'utilise-t-on comme monnaie en Guyane française ?",
+              "options": {
+                "A": "Le dollar",
+                "B": "Le réal brésilien",
+                "C": "L'euro",
+                "D": "Le franc suisse"
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        "B2": {
+          "title": "L'insolite record frontalier de la France au cœur de l'Amazonie",
+          "content": "À la question de savoir quel État possède la plus vaste frontière terrestre avec l'Hexagone, la spontanéité conduit à citer l'Espagne ou l'Italie. Contre toute attente, c'est le Brésil qui détient ce titre. Cette anomalie géographique découle de la présence de la Guyane française. Établi sur le continent sud-américain, ce territoire délimite une frontière de 730 kilomètres avec le géant brésilien à travers la jungle amazonienne, éclipsant les 623 kilomètres séparant la France de l'Espagne. Il convient de souligner que la Guyane constitue un département à part entière depuis 1946, soumis aux mêmes lois que la métropole. Ses résidents, citoyens européens, emploient la monnaie unique. Dès lors, l'Union européenne maintient une frontière physique avec la forêt tropicale. De surcroît, le plus grand parc national français s'y niche, abritant une faune sauvage riche en jaguars. Cette réalité géopolitique démontre que la souveraineté française transcende les frontières européennes.",
+          "quiz": [
+            {
+              "text": "Que révèle ce texte sur la géographie politique de la France ?",
+              "options": {
+                "A": "Que ses frontières européennes sont les plus longues du monde",
+                "B": "Qu'elle possède des territoires ultramarins qui modifient ses frontières internationales",
+                "C": "Que la Guyane est une colonie indépendante depuis 1946",
+                "D": "Que l'Espagne est le seul voisin terrestre de la France"
+              },
+              "answer": "B"
+            },
+            {
+              "text": "Quelle particularité concerne le plus grand parc national de France ?",
+              "options": {
+                "A": "Il se situe dans les Alpes pour protéger les grands mammifères",
+                "B": "Il est partagé entre l'Espagne et l'Italie",
+                "C": "Il se trouve en Guyane et abrite des jaguars",
+                "D": "Il a été créé pour remplacer la forêt amazonienne"
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        "C1": {
+          "title": "Le paradoxe amazonien : quand la France tutoie le Brésil",
+          "content": "Interrogé sur l'identité du principal voisin frontalier de la Hexagone, l'observateur non averti conviendra spontanément de l'Espagne ou de l'Allemagne. C'est pourtant le Brésil qui s'impose, un contre-intuitif paradoxe imputable à la Guyane française. Ancré sur la façade septentrionale de l'Amérique du Sud, ce territoire partage 730 kilomètres de démarcation avec l'État brésilien au cœur de la sylve amazonienne, surclassant ainsi les 623 kilomètres de la frontière pyrénéenne. Loin d'être un simple vestige colonial, la Guyane s'avère être un département d'outre-mer institutionnalisé depuis 1946, régi par l'arsenal législatif républicain. Ses administrés, de citoyenneté européenne, ont cours de l'euro, conférant de facto à l'Union européenne une frontière terrestre contiguë avec la jungle impénétrable. En outre, le sanctuaire naturel le plus vaste de l'Hexagone ne gît point dans les massifs alpins, mais bien sous les latitudes guyanaises, abritant une biodiversité foisonnante de jaguars et d'anacondas. Une telle configuration géopolitique atteste éloquemment que la souveraineté française ne se cantonne guère au Vieux Continent, mais s'affranchit des limites continentales.",
+          "quiz": [
+            {
+              "text": "Quel terme qualifie le mieux le statut de la Guyane selon le texte ?",
+              "options": {
+                "A": "Un protectorat temporaire sans lien avec l'Union européenne",
+                "B": "Un département intégré doté des mêmes lois que la métropole",
+                "C": "Une ancienne colonie autonome gérée par le Brésil",
+                "D": "Un territoire exclusivement réservé à la préservation de la faune"
+              },
+              "answer": "B"
+            },
+            {
+              "text": "Quelle est la principale conséquence géopolitique de cette situation pour l'Union européenne ?",
+              "options": {
+                "A": "Union européenne partage une frontière directe avec l'Amazonie brésilienne",
+                "B": "L'Europe n'a plus aucune frontière terrestre en dehors de la France métropolitaine",
+                "C": "L'euro n'est pas accepté sur ce territoire sud-américain",
+                "D": "Les frontières pyrénéennes deviennent les plus longues du continent"
+              },
+              "answer": "A"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
