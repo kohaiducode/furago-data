@@ -413,6 +413,420 @@
           ]
         }
       }
+    },
+    {
+      "id": 4,
+      "originalTitle": "Étages",
+      "category": "歴史",
+      "imageUrl": "https://drive.google.com/file/d/17zfWBJ10ACJtPXurBcM9d-foM8x35xot/view?usp=drive_link",
+      "levels": {
+        "A1": {
+          "title": "Le secret des immeubles parisiens",
+          "content": "Aujourd'hui, tout le monde veut habiter au dernier étage à Paris. La vue est très belle. Mais avant, c'était très différent ! Au dix-neuvième siècle, les riches n'aiment pas les étages hauts. Pourquoi ? Parce qu'il n'y a pas d'ascenseur. C'est très fatigant de monter les escaliers. Les personnes riches habitent au deuxième étage. C'est le meilleur étage avec un grand balcon. Plus on monte, plus les gens sont pauvres. Tout en haut, sous le toit, c'est pour les domestiques. Ces petites chambres sont très froides en hiver et très chaudes en été. Heureusement, l'ascenseur a changé cette situation pour toujours !",
+          "quiz": [
+            {
+              "text": "Pourquoi les riches n'aimaient pas le dernier étage ?",
+              "options": {
+                "A": "Il faisait trop sombre",
+                "B": "Il n'y avait pas d'ascenseur",
+                "C": "Le loyer était très cher",
+                "D": "C'était beaucoup trop bruyant"
+              },
+              "answer": "B"
+            },
+            {
+              "text": "Quel étage était le meilleur pour les riches ?",
+              "options": {
+                "A": "Le premier étage",
+                "B": "Le dernier étage",
+                "C": "Le deuxième étage",
+                "D": "Le rez-de-chaussée"
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        "A2": {
+          "title": "Pourquoi les riches fuyaient le dernier étage ?",
+          "content": "À Paris, habiter sous les toits est aujourd'hui un grand rêve. On peut voir toute la belle capitale. Mais au dix-neuvième siècle, c'était un véritable cauchemar pour les personnes riches. Quand le célèbre baron Haussmann construit ses beaux immeubles, l'ascenseur n'existe pas. La société parisienne s'organise donc avec les escaliers. La meilleure place est au deuxième étage. On l'appelle l'étage noble. Il y a peu de marches à monter, de très grands plafonds et un magnifique balcon. Plus on monte dans l'immeuble, plus les appartements sont petits et les locataires sont pauvres. Les domestiques dorment tout en haut, dans les petites chambres de bonne sous le toit. L'invention de l'ascenseur va complètement changer cette habitude.",
+          "quiz": [
+            {
+              "text": "Comment s'appelle le deuxième étage de l'immeuble ?",
+              "options": {
+                "A": "L'étage noble",
+                "B": "L'étage royal",
+                "C": "L'étage pauvre",
+                "D": "L'étage magique"
+              },
+              "answer": "A"
+            },
+            {
+              "text": "Qui habitait dans les chambres sous les toits ?",
+              "options": {
+                "A": "Le baron Haussmann",
+                "B": "Les personnes riches",
+                "C": "Les artistes parisiens",
+                "D": "Les pauvres domestiques"
+              },
+              "answer": "D"
+            }
+          ]
+        },
+        "B1": {
+          "title": "L'histoire étonnante des étages parisiens",
+          "content": "Actuellement, posséder un grand appartement sous les toits de Paris est considéré comme un luxe absolu. Pourtant, au dix-neuvième siècle, la bourgeoisie parisienne détestait cette idée. Lors de la transformation de Paris par le baron Haussmann, les célèbres immeubles en pierre de taille sont construits sans ascenseur. Par conséquent, la société s'organise de manière verticale selon la fatigue physique. Le véritable prestige à l'époque, c'est d'habiter au deuxième étage, qu'on appelle l'étage noble. Les résidents riches profitent de plafonds très hauts, d'un immense balcon et de peu d'escaliers à monter. Au contraire, plus on grimpe dans les étages, plus les revenus des habitants diminuent. Les petites chambres sous les toits en zinc sont réservées aux domestiques. Ces espaces sont glacials pendant l'hiver et étouffants pendant l'été. Finalement, c'est l'invention magique de l'ascenseur qui a complètement inversé cette pyramide sociale.",
+          "quiz": [
+            {
+              "text": "Pourquoi la bourgeoisie refusait-elle d'habiter sous les toits ?",
+              "options": {
+                "A": "Par peur des incendies",
+                "B": "À cause de l'absence d'ascenseur",
+                "C": "Pour éviter les voisins",
+                "D": "À cause du prix élevé"
+              },
+              "answer": "B"
+            },
+            {
+              "text": "Qu'est-ce qui caractérise l'étage noble ?",
+              "options": {
+                "A": "Des plafonds hauts et un balcon",
+                "B": "Des petites fenêtres carrées",
+                "C": "Une absence totale d'escaliers",
+                "D": "Un loyer très bon marché"
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        "B2": {
+          "title": "La pyramide sociale inversée des immeubles haussmanniens",
+          "content": "De nos jours, l'idéal immobilier parisien se résume souvent à un luxueux appartement sous les toits offrant une vue panoramique sur la capitale. Or, au dix-neuvième siècle, cette perspective représentait le pire cauchemar de la grande bourgeoisie ! Lors des grands travaux de modernisation orchestrés par le baron Haussmann, les somptueux immeubles en pierre de taille sont érigés, mais l'ascenseur n'a pas encore fait son apparition. La société parisienne se structure alors de manière strictement verticale, conditionnée par l'effort physique. Le comble du prestige consiste à résider au deuxième étage, traditionnellement baptisé l'étage noble. Les bourgeois y bénéficient de volumes majestueux, d'un balcon filant idéal pour parader et s'épargnent une ascension épuisante. Logiquement, plus on s'élève dans les étages, plus la hauteur sous plafond se réduit et plus la classe sociale des locataires s'abaisse. Les domestiques sont finalement relégués tout au sommet, dans d'exiguës chambres de bonne, véritables fours en été et glacières en hiver. L'introduction de l'ascenseur viendra plus tard bouleverser totalement cette hiérarchie architecturale.",
+          "quiz": [
+            {
+              "text": "Comment la société parisienne se structurait-elle dans ces immeubles ?",
+              "options": {
+                "A": "De manière horizontale",
+                "B": "Selon l'âge des locataires",
+                "C": "De manière verticale",
+                "D": "Selon le nombre d'enfants"
+              },
+              "answer": "C"
+            },
+            {
+              "text": "Quel événement a bouleversé cette hiérarchie architecturale ?",
+              "options": {
+                "A": "La chute du baron Haussmann",
+                "B": "L'introduction de l'ascenseur",
+                "C": "La rénovation des toitures",
+                "D": "La fin du dix-neuvième siècle"
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        "C1": {
+          "title": "L'ascension sociale : quand l'ascenseur a bouleversé Paris",
+          "content": "Si l'attique mansardé offrant une vue plongeante sur la canopée parisienne cristallise aujourd'hui tous les fantasmes immobiliers, il constituait jadis le repoussoir absolu de la bourgeoisie du dix-neuvième siècle. En effet, lorsque le préfet Haussmann refaçonne la physionomie de la capitale avec ses immeubles cossus en pierre de taille, l'ascenseur n'a pas encore émergé. Cette contrainte technique engendre une stratification sociale rigoureusement verticale, littéralement indexée sur la pénibilité de l'ascension. L'ostentation sociale culmine alors au deuxième étage, le fameux étage noble, prisé pour ses proportions grandioses, son balcon filant propice aux mondanités et son accès aisé. Inexorablement, à mesure que l'on gravit les volées de marches, les hauteurs sous plafond s'amenuisent de concert avec le statut pécuniaire des résidents. Les domestiques se voient relégués sous les toits de zinc, parqués dans de lugubres chambres de bonne soumises aux caprices thermiques les plus extrêmes. C'est paradoxalement la démocratisation de l'ascenseur qui opérera un renversement complet de cette pyramide sociale, hissant le sommet de l'édifice au rang de privilège ultime.",
+          "quiz": [
+            {
+              "text": "Sur quoi la stratification sociale de l'immeuble était-elle indexée ?",
+              "options": {
+                "A": "L'exposition à la lumière naturelle",
+                "B": "La taille des balcons extérieurs",
+                "C": "La pénibilité de l'ascension",
+                "D": "Le prestige de la rue"
+              },
+              "answer": "C"
+            },
+            {
+              "text": "Quelle expression désigne les logements réservés aux domestiques ?",
+              "options": {
+                "A": "Le luxueux étage noble",
+                "B": "Les lugubres chambres de bonne",
+                "C": "Le fameux attique mansardé",
+                "D": "Le sommet de l'édifice"
+              },
+              "answer": "B"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 5,
+      "originalTitle": "Joconde",
+      "category": "芸術",
+      "imageUrl": "https://drive.google.com/file/d/1_KAdJDyVi2w9uEFPzs5LebSfl-1Tq3HM/view?usp=drive_link",
+      "levels": {
+        "A1": {
+          "title": "Le vol mystérieux de La Joconde",
+          "content": "La Joconde est le tableau le plus célèbre du musée du Louvre à Paris. Mais avant mille neuf cent onze, les visiteurs ne regardent pas beaucoup cette belle peinture. Un jour d'août, un homme vole le fameux tableau de Léonard de Vinci. Il cache la peinture sous son manteau et il sort vite du musée. C'est un très grand scandale ! Le tableau disparaît complètement pendant deux ans. Tous les journaux du monde parlent de cette histoire incroyable. Les gens vont au musée de Paris juste pour regarder le mur vide. En mille neuf cent treize, la police retrouve enfin La Joconde. Après cette grande aventure, le tableau devient une vraie star internationale. Aujourd'hui, des millions de touristes viennent pour la photographier.",
+          "quiz": [
+            {
+              "text": "Que fait l'homme dans le musée ?",
+              "options": {
+                "A": "Il prend des photos",
+                "B": "Il vole le tableau",
+                "C": "Il achète une peinture",
+                "D": "Il nettoie le mur"
+              },
+              "answer": "B"
+            },
+            {
+              "text": "Combien de temps le tableau disparaît-il ?",
+              "options": {
+                "A": "Deux jours",
+                "B": "Deux semaines",
+                "C": "Deux mois",
+                "D": "Deux ans"
+              },
+              "answer": "D"
+            }
+          ]
+        },
+        "A2": {
+          "title": "Le vol qui a rendu La Joconde célèbre",
+          "content": "Tout le monde connaît La Joconde au musée du Louvre. Mais saviez-vous que ce tableau n'était pas très populaire avant 1911 ? Les experts aimaient la peinture, mais le public passait souvent devant sans s'arrêter. En août 1911, un ancien employé du musée décide de voler le tableau. Il le cache simplement sous son manteau et sort tranquillement dans la rue. C'est la panique totale à Paris ! Pendant deux ans, le tableau reste introuvable. Les journaux internationaux mettent le visage de Mona Lisa sur leurs premières pages. Les gens viennent au musée uniquement pour voir la place vide sur le mur. Quand le tableau est finalement retrouvé en 1913, il est devenu une véritable star mondiale. L'histoire de ce vol incroyable a rendu La Joconde totalement immortelle.",
+          "quiz": [
+            {
+              "text": "Comment le voleur cache-t-il le tableau ?",
+              "options": {
+                "A": "Dans une grande valise",
+                "B": "Sous son manteau",
+                "C": "Dans une boîte",
+                "D": "Sous un journal"
+              },
+              "answer": "B"
+            },
+            {
+              "text": "Pourquoi les gens viennent-ils au musée après le vol ?",
+              "options": {
+                "A": "Pour voir le voleur",
+                "B": "Pour acheter des billets",
+                "C": "Pour voir le mur vide",
+                "D": "Pour parler aux policiers"
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        "B1": {
+          "title": "L'incroyable fait divers de Mona Lisa",
+          "content": "Vous pensez que La Joconde attire des millions de touristes uniquement grâce au talent de Léonard de Vinci ? En réalité, l'histoire est très différente. Avant l'année 1911, ce chef-d'œuvre était admiré par les experts, mais le grand public ne le remarquait pas beaucoup. Tout a changé un matin d'août, lorsqu'un ancien employé du Louvre a décroché la toile pour la cacher sous ses vêtements. Pendant deux longues années, ce vol spectaculaire a passionné la presse internationale. Le visage de Mona Lisa s'est retrouvé à la une des journaux du monde entier. La curiosité était tellement grande que des foules de Parisiens allaient au musée uniquement pour observer l'emplacement vide. Quand la police a enfin retrouvé la peinture en 1913, La Joconde n'était plus un simple tableau classique. Elle s'était transformée en une véritable icône de la culture populaire mondiale grâce à cet événement digne d'un grand film.",
+          "quiz": [
+            {
+              "text": "Qui admirait le tableau avant l'année 1911 ?",
+              "options": {
+                "A": "Les touristes étrangers",
+                "B": "Seulement les experts",
+                "C": "Tous les Parisiens",
+                "D": "Les journalistes internationaux"
+              },
+              "answer": "B"
+            },
+            {
+              "text": "Qu'est-ce qui a rendu La Joconde vraiment célèbre ?",
+              "options": {
+                "A": "Ses belles couleurs",
+                "B": "Son prix très élevé",
+                "C": "Le talent du peintre",
+                "D": "Son vol spectaculaire"
+              },
+              "answer": "D"
+            }
+          ]
+        },
+        "B2": {
+          "title": "Le braquage du siècle au Louvre",
+          "content": "Si La Joconde fascine aujourd'hui des millions de visiteurs, ce n'est pas exclusivement grâce à la virtuosité de Léonard de Vinci. Avant le retentissant vol de 1911, Mona Lisa jouissait d'une belle réputation auprès des spécialistes, mais le grand public l'ignorait presque totalement. L'histoire bascule en plein mois d'août, lorsqu'un ancien employé du musée parvient à subtiliser la toile en la dissimulant sous sa blouse. Cet acte audacieux déclenche une véritable hystérie médiatique qui va durer deux longues années. Le visage au sourire énigmatique s'affiche à la une de la presse internationale, créant un engouement sans précédent. La curiosité est telle que des badauds se pressent dans les galeries du Louvre à seule fin de contempler l'emplacement laissé vide. À sa restitution triomphale en 1913, l'œuvre a définitivement changé de statut. Loin d'être une simple toile de la Renaissance, elle est devenue la toute première icône de la pop culture, propulsée au sommet par un fait divers rocambolesque.",
+          "quiz": [
+            {
+              "text": "Que fait le public avant le vol de 1911 ?",
+              "options": {
+                "A": "Il ignore presque l'œuvre",
+                "B": "Il photographie le tableau",
+                "C": "Il critique le peintre",
+                "D": "Il achète des copies"
+              },
+              "answer": "A"
+            },
+            {
+              "text": "Qu'est-ce qui s'affiche à la une de la presse internationale ?",
+              "options": {
+                "A": "Le portrait du voleur",
+                "B": "Le visage de Mona Lisa",
+                "C": "Le nom du directeur",
+                "D": "La photo du Louvre"
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        "C1": {
+          "title": "La consécration médiatique du sourire énigmatique",
+          "content": "L'attraction magnétique qu'exerce aujourd'hui La Joconde sur les foules ne saurait se réduire à la seule maîtrise picturale de Léonard de Vinci. Antérieurement au rapt rocambolesque de 1911, ce chef-d'œuvre suscitait l'admiration des esthètes, sans pour autant captiver les profanes qui le frôlaient dans la plus totale indifférence. La donne est radicalement bouleversée lorsqu'un ancien employé du Louvre dérobe furtivement le tableau, s'éclipsant après l'avoir dissimulé sous ses effets personnels. Cette disparition providentielle va catalyser une frénésie médiatique internationale d'une ampleur inédite s'étalant sur deux années. Les rotatives du monde entier s'emparent de l'affaire, placardant le visage de la Florentine en première page, si bien que des hordes de curieux convergent vers le musée pour y contempler l'improbable vacuité du mur. Lors de sa restitution triomphale en 1913, l'œuvre s'est littéralement métamorphosée. Affranchie de son simple statut d'héritage de la Renaissance, elle est érigée en icône planétaire, sa gloire immortelle reposant paradoxalement davantage sur ce vol sensationnel que sur la virtuosité intrinsèque de son sfumato.",
+          "quiz": [
+            {
+              "text": "Quel terme qualifie le mieux l'attitude du grand public avant 1911 ?",
+              "options": {
+                "A": "Une profonde admiration",
+                "B": "Une indifférence totale",
+                "C": "Une curiosité malsaine",
+                "D": "Une fascination artistique"
+              },
+              "answer": "B"
+            },
+            {
+              "text": "Sur quoi repose paradoxalement la gloire immortelle de la toile ?",
+              "options": {
+                "A": "La virtuosité de son sfumato",
+                "B": "L'identité de la Florentine",
+                "C": "Ce vol sensationnel",
+                "D": "Le talent de Léonard"
+              },
+              "answer": "C"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 6,
+      "originalTitle": "Drapeau",
+      "category": "歴史",
+      "imageUrl": "https://drive.google.com/file/d/1OLxvyDIC1KHgpSxYRNO1uDPg95v0IAd3/view?usp=drive_link",
+      "levels": {
+        "A1": {
+          "title": "Le grand secret du drapeau français",
+          "content": "Le drapeau de la France est bleu, blanc et rouge. C'est très joli, mais il y a un grand secret. En mille sept cent quatre-vingt-neuf, c'est la Révolution française. Les Français choisissent ces trois couleurs. Le bleu et le rouge sont les couleurs de Paris. Le blanc est la couleur du roi de France. Regardez bien le drapeau. Le blanc est au milieu, coincé entre le bleu et le rouge. Ce n'est pas un hasard ! Cela veut dire que la ville de Paris contrôle le roi. Le peuple est plus fort que la monarchie. Le roi Louis XVI doit porter ces couleurs sur son chapeau. Il ne veut pas, mais il est obligé. Ce drapeau est en fait un message très agressif. Il montre la grande victoire du peuple français.",
+          "quiz": [
+            {
+              "text": "Que représente la couleur blanche ?",
+              "options": {
+                "A": "La ville de Paris",
+                "B": "Le roi de France",
+                "C": "La Révolution française",
+                "D": "Le peuple français"
+              },
+              "answer": "B"
+            },
+            {
+              "text": "Où est placée la couleur blanche ?",
+              "options": {
+                "A": "Au milieu du drapeau",
+                "B": "À gauche du drapeau",
+                "C": "À droite du drapeau",
+                "D": "En haut du drapeau"
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        "A2": {
+          "title": "Le message caché du drapeau",
+          "content": "Le drapeau français cache un message très agressif. Tout le monde connaît ses trois couleurs : le bleu, le blanc et le rouge. Mais savez-vous pourquoi elles sont dans cet ordre ? L'histoire commence en 1789 avec la Révolution française. Les habitants de Paris utilisent le bleu et le rouge. Le blanc est le grand symbole du roi. Dans le drapeau, la couleur blanche est placée au milieu. Elle est complètement bloquée par les couleurs de Paris. C'est un message politique très clair et très fort. Le peuple de Paris encadre et surveille le roi. Quand le roi Louis XVI doit mettre ces couleurs sur son chapeau, c'est une grande humiliation. Il montre à tout le monde qu'il a perdu son pouvoir. Finalement, ce joli drapeau est une vraie victoire politique.",
+          "quiz": [
+            {
+              "text": "Que représentent le bleu et le rouge ?",
+              "options": {
+                "A": "La Révolution de 1789",
+                "B": "Le roi de France",
+                "C": "La ville de Paris",
+                "D": "Le chapeau du roi"
+              },
+              "answer": "C"
+            },
+            {
+              "text": "Que signifie le blanc au milieu ?",
+              "options": {
+                "A": "Le roi est très fort",
+                "B": "Le peuple surveille le roi",
+                "C": "Le roi aime Paris",
+                "D": "La paix en France"
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        "B1": {
+          "title": "Le drapeau tricolore : un avertissement politique",
+          "content": "Vous pensez que les couleurs du drapeau français ont été choisies au hasard pour faire joli ? Ce n'est pas du tout le cas. En réalité, le bleu, le blanc et le rouge cachent un message politique d'une grande violence. Pendant la Révolution de 1789, les révolutionnaires adoptent une cocarde avec ces trois couleurs. Le bleu et le rouge représentent historiquement la ville de Paris, tandis que le blanc symbolise la monarchie française. Mais la disposition est très importante. Le blanc royal est littéralement pris au piège entre les deux couleurs parisiennes. Ce choix visuel signifie que le peuple de Paris encadre, surveille et soumet le pouvoir du roi. Lorsque Louis XVI est forcé d'accrocher ce symbole à son chapeau, il doit accepter son nouveau statut. Il porte sur lui l'insigne de sa propre défaite. Le drapeau tricolore est donc né comme une véritable prise d'otage symbolique.",
+          "quiz": [
+            {
+              "text": "Comment la couleur blanche est-elle positionnée ?",
+              "options": {
+                "A": "Elle domine les autres",
+                "B": "Elle est prise au piège",
+                "C": "Elle est absente du drapeau",
+                "D": "Elle est au-dessus du reste"
+              },
+              "answer": "B"
+            },
+            {
+              "text": "Que doit faire le roi Louis XVI ?",
+              "options": {
+                "A": "Interdire le nouveau drapeau",
+                "B": "Quitter la ville de Paris",
+                "C": "Changer les couleurs officielles",
+                "D": "Porter ce symbole humiliant"
+              },
+              "answer": "D"
+            }
+          ]
+        },
+        "B2": {
+          "title": "La prise d'otage visuelle de la royauté",
+          "content": "Le drapeau tricolore français est bien plus qu'une simple combinaison esthétique, c'est en réalité l'incarnation d'un véritable coup de pression politique. Lors de la Révolution française en 1789, La Fayette et les révolutionnaires conçoivent une cocarde très spéciale. Ils décident d'associer le bleu et le rouge, qui sont les couleurs historiques de Paris, au blanc, le symbole immaculé et intouchable de la royauté. Cependant, l'agencement de ces couleurs ne doit absolument rien au hasard. Le blanc monarchique se retrouve littéralement pris en sandwich, étouffé par les couleurs de la capitale. Le message symbolique envoyé à l'époque est d'une violence inouïe. Il signifie clairement que le peuple parisien encadre, contrôle et soumet désormais l'autorité royale. Lorsque le roi Louis XVI est contraint d'arborer cet insigne sur son couvre-chef, il fait face à une terrible humiliation publique. En portant ce symbole, il officialise sa propre perte de pouvoir devant la nation entière.",
+          "quiz": [
+            {
+              "text": "Pourquoi le blanc est-il placé au centre ?",
+              "options": {
+                "A": "Pour de simples raisons esthétiques",
+                "B": "Pour symboliser la paix nationale",
+                "C": "Pour montrer la soumission du roi",
+                "D": "Pour honorer le général La Fayette"
+              },
+              "answer": "C"
+            },
+            {
+              "text": "Comment Louis XVI vit-il cette situation ?",
+              "options": {
+                "A": "Comme une grande victoire personnelle",
+                "B": "Comme une terrible humiliation",
+                "C": "Comme un simple accord politique",
+                "D": "Comme une erreur sans importance"
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        "C1": {
+          "title": "Le guet-apens héraldique de la Révolution",
+          "content": "Si l'harmonie chromatique du drapeau tricolore semble aujourd'hui relever d'une simple évidence esthétique, sa genèse dissimule en réalité l'une des manœuvres politiques les plus agressives de notre histoire. À l'aube de la Révolution en 1789, les insurgés parisiens, sous l'impulsion de La Fayette, adoptent une cocarde hautement symbolique. Ils choisissent de greffer le blanc, attribut séculaire et intouchable de la monarchie, au bleu et au rouge, les teintes emblématiques de la capitale. Or, la disposition spatiale de ces nuances s'apparente à un véritable guet-apens héraldique. Enserré de part et d'autre, le blanc royal se retrouve littéralement étouffé par l'étau parisien. L'allégorie est d'une brutalité inouïe pour l'époque : la souveraineté populaire encadre, surveille et assujettit désormais la Couronne. Contraint d'arborer cet insigne sur son bicorne, Louis XVI doit faire bonne figure tout en portant l'étendard de sa propre déchéance. Bien loin du consensuel emblème républicain actuel, cet étendard fut conçu comme une séquestration visuelle du pouvoir absolu.",
+          "quiz": [
+            {
+              "text": "Comment la disposition des couleurs est-elle décrite ?",
+              "options": {
+                "A": "Un incroyable guet-apens héraldique",
+                "B": "Une parfaite harmonie chromatique",
+                "C": "Une simple évidence esthétique",
+                "D": "Un grand hommage au pouvoir"
+              },
+              "answer": "A"
+            },
+            {
+              "text": "Que représente ce drapeau lors de sa création ?",
+              "options": {
+                "A": "Un accord républicain consensuel",
+                "B": "Une séquestration symbolique du pouvoir",
+                "C": "Un soutien total à la Couronne",
+                "D": "Une victoire incontestable du roi"
+              },
+              "answer": "B"
+            }
+          ]
+        }
+      }
     }
   ]
 }
