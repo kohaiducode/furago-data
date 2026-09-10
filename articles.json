@@ -7,8 +7,8 @@
       "imageUrl": "https://drive.google.com/file/d/1DMAb-xILIQ2Z1GTTmG3DDdsf62-JRcpO/view?usp=drive_link",
       "levels": {
         "A1": {
-          "title": "Le plus grand voisin de la France",
-          "content": "La France a une très longue frontière. Normalement, on pense à l'Espagne. Mais la vraie réponse est le Brésil. C'est bizarre, mais c'est vrai grâce à la Guyane française. Ce territoire est en Amérique du Sud. Il y a 730 kilomètres de frontière avec le Brésil dans la grande forêt. C'est plus grand que la frontière avec l'Espagne, qui fait 623 kilomètres. La Guyane est un département français depuis 1946. Les habitants sont des citoyens européens. Ils achètent avec l'euro. Alors, l'Union européenne touche la forêt amazonienne. Aussi, le plus grand parc national de France est en Guyane. Il y a des jaguars et des anacondas. La France n'est pas seulement en Europe, elle est sur plusieurs continents.",
+          "title": "Le grand voisin de la France",
+          "content": "La France a une très longue frontière. Normalement, on pense à l'Espagne ou à l'Italie. Mais la vraie réponse est le Brésil ! C'est surprenant, mais c'est vrai grâce à la Guyane française. Ce beau territoire se trouve en Amérique du Sud. Il y a 730 kilomètres de frontière avec le Brésil dans la grande forêt. C'est plus grand que la frontière avec l'Espagne. La Guyane est un vrai département français depuis l'année 1946. Les habitants sont des citoyens européens. Ils achètent leurs baguettes avec l'euro. Ainsi, l'Union européenne touche la célèbre forêt amazonienne. Aussi, le plus grand parc national de France est en Guyane. On peut y voir des jaguars sauvages. La France n'est donc pas seulement en Europe. Elle existe sur plusieurs continents.",
           "quiz": [
             {
               "text": "Quel pays partage la plus longue frontière avec la France ?",
@@ -21,7 +21,7 @@
               "answer": "C"
             },
             {
-              "text": "Où se trouve le plus grand parc national de France ?",
+              "text": "Où se trouve le plus grand parc de France ?",
               "options": {
                 "A": "Dans les Alpes",
                 "B": "En Guyane",
@@ -33,11 +33,11 @@
           ]
         },
         "A2": {
-          "title": "Une frontière surprenante en Amérique du Sud",
-          "content": "Quand on cherche la plus longue frontière de la France, on pense souvent à l'Espagne ou à l'Italie. Pourtant, le gagnant est le Brésil. Ce mystère s'explique par la Guyane française. Ce territoire se trouve en Amérique du Sud. Il partage 730 kilomètres de frontière avec le Brésil au milieu de la forêt amazonienne. Cette distance dépasse la frontière franco-espagnole de 623 kilomètres. Il faut savoir que la Guyane est un département français depuis 1946. Les gens là-bas sont des citoyens européens et ils utilisent l'euro. Ainsi, l'Union européenne a une frontière directe avec la jungle. De plus, le plus grand parc national français n'est pas dans les Alpes, mais en Guyane. On y trouve des jaguars et des anacondas. La France est donc présente sur plusieurs continents.",
+          "title": "Une frontière très surprenante",
+          "content": "Quand on cherche la plus longue frontière de la France, on pense souvent à l'Espagne. Pourtant, le grand gagnant est le Brésil. Ce mystère s'explique facilement par l'existence de la Guyane française. Ce beau territoire se trouve en Amérique du Sud. Il partage 730 kilomètres de frontière avec le Brésil, au milieu de la forêt amazonienne. Cette distance dépasse la frontière franco-espagnole qui fait seulement 623 kilomètres. Il faut savoir que la Guyane est un département français depuis 1946. Les gens là-bas sont des citoyens européens et ils utilisent l'euro pour faire leurs courses. Ainsi, l'Union européenne a une frontière directe avec la jungle tropicale. De plus, le plus grand parc national français n'est pas dans les montagnes, mais en Guyane. On y trouve des animaux incroyables comme les jaguars et les anacondas. La France est donc présente sur plusieurs continents différents.",
           "quiz": [
             {
-              "text": "Quelle est la longueur de la frontière entre la Guyane et le Brésil ?",
+              "text": "Quelle est la taille de la frontière avec le Brésil ?",
               "options": {
                 "A": "623 kilomètres",
                 "B": "730 kilomètres",
@@ -47,92 +47,92 @@
               "answer": "B"
             },
             {
-              "text": "Depuis quelle année la Guyane est-elle un département français ?",
+              "text": "Quelle monnaie utilise-t-on en Guyane ?",
               "options": {
-                "A": "1846",
-                "B": "1900",
-                "C": "1946",
-                "D": "1958"
-              },
-              "answer": "C"
-            }
-          ]
-        },
-        "B1": {
-          "title": "Le secret géographique de la frontière brésilienne",
-          "content": "Si l'on se demande quel pays partage la plus grande frontière avec la France, l'Espagne ou l'Allemagne viennent immédiatement à l'esprit. Pourtant, la réponse surprenante est le Brésil. Ce paradoxe existe grâce à la Guyane française. Située en Amérique du Sud, cette région partage 730 kilomètres de limite avec le Brésil au cœur de la forêt amazonienne. Cette distance est plus longue que la frontière avec l'Espagne, qui mesure 623 kilomètres. Il est important de noter que la Guyane n'est pas une simple colonie, mais un département français depuis 1946. Ses habitants possèdent la citoyenneté européenne et paient en euros. Par conséquent, l'Union européenne possède une frontière directe avec la jungle. En outre, le plus grand parc national français se situe en Guyane et protège des animaux comme les jaguars. Cela montre que la France s'étend bien au-delà de l'Europe.",
-          "quiz": [
-            {
-              "text": "Pourquoi la frontière avec le Brésil est-elle possible pour la France ?",
-              "options": {
-                "A": "À cause des départements d'outre-mer comme la Guyane",
-                "B": "Grâce à un accord récent avec l'Espagne",
-                "C": "Parce que la France a acheté une partie de l'Amazonie en 1946",
-                "D": "Parce que l'Europe contrôle toute l'Amérique du Sud"
-              },
-              "answer": "A"
-            },
-            {
-              "text": "Qu'utilise-t-on comme monnaie en Guyane française ?",
-              "options": {
-                "A": "Le dollar",
+                "A": "Le dollar américain",
                 "B": "Le réal brésilien",
-                "C": "L'euro",
+                "C": "L'euro européen",
                 "D": "Le franc suisse"
               },
               "answer": "C"
             }
           ]
         },
-        "B2": {
-          "title": "L'insolite record frontalier de la France au cœur de l'Amazonie",
-          "content": "À la question de savoir quel État possède la plus vaste frontière terrestre avec l'Hexagone, la spontanéité conduit à citer l'Espagne ou l'Italie. Contre toute attente, c'est le Brésil qui détient ce titre. Cette anomalie géographique découle de la présence de la Guyane française. Établi sur le continent sud-américain, ce territoire délimite une frontière de 730 kilomètres avec le géant brésilien à travers la jungle amazonienne, éclipsant les 623 kilomètres séparant la France de l'Espagne. Il convient de souligner que la Guyane constitue un département à part entière depuis 1946, soumis aux mêmes lois que la métropole. Ses résidents, citoyens européens, emploient la monnaie unique. Dès lors, l'Union européenne maintient une frontière physique avec la forêt tropicale. De surcroît, le plus grand parc national français s'y niche, abritant une faune sauvage riche en jaguars. Cette réalité géopolitique démontre que la souveraineté française transcende les frontières européennes.",
+        "B1": {
+          "title": "Le secret de la frontière brésilienne",
+          "content": "Si l'on se demande quel pays partage la plus grande frontière terrestre avec la France, l'Espagne vient immédiatement à l'esprit. Pourtant, la réponse étonnante est le Brésil. Ce paradoxe géographique existe grâce à la Guyane française. Située sur le continent sud-américain, cette région partage 730 kilomètres de limite avec le Brésil, en plein cœur de la forêt amazonienne. Cette démarcation est bien plus longue que la frontière avec l'Espagne, qui mesure 623 kilomètres. Il est important de comprendre que la Guyane n'est pas une simple colonie lointaine. C'est un véritable département français depuis 1946. Ses habitants possèdent la citoyenneté européenne et paient tous leurs achats en euros. Par conséquent, l'Union européenne possède une frontière directe et officielle avec la jungle. En outre, le plus grand parc national français se situe en Guyane pour protéger un écosystème exceptionnel avec des jaguars. Cela démontre que le territoire français s'étend véritablement au-delà de l'Europe.",
           "quiz": [
             {
-              "text": "Que révèle ce texte sur la géographie politique de la France ?",
+              "text": "Pourquoi la France a-t-elle une frontière avec le Brésil ?",
               "options": {
-                "A": "Que ses frontières européennes sont les plus longues du monde",
-                "B": "Qu'elle possède des territoires ultramarins qui modifient ses frontières internationales",
-                "C": "Que la Guyane est une colonie indépendante depuis 1946",
-                "D": "Que l'Espagne est le seul voisin terrestre de la France"
+                "A": "Grâce à la Guyane française",
+                "B": "À cause d'un accord européen",
+                "C": "Grâce à l'achat de l'Amazonie",
+                "D": "À cause de la colonisation espagnole"
               },
-              "answer": "B"
+              "answer": "A"
             },
             {
-              "text": "Quelle particularité concerne le plus grand parc national de France ?",
+              "text": "Que protège le plus grand parc national français ?",
               "options": {
-                "A": "Il se situe dans les Alpes pour protéger les grands mammifères",
-                "B": "Il est partagé entre l'Espagne et l'Italie",
-                "C": "Il se trouve en Guyane et abrite des jaguars",
-                "D": "Il a été créé pour remplacer la forêt amazonienne"
+                "A": "Les montagnes des Alpes",
+                "B": "Les côtes de la Méditerranée",
+                "C": "Un écosystème avec des jaguars",
+                "D": "Les grandes villes d'Europe"
               },
               "answer": "C"
             }
           ]
         },
-        "C1": {
-          "title": "Le paradoxe amazonien : quand la France tutoie le Brésil",
-          "content": "Interrogé sur l'identité du principal voisin frontalier de la Hexagone, l'observateur non averti conviendra spontanément de l'Espagne ou de l'Allemagne. C'est pourtant le Brésil qui s'impose, un contre-intuitif paradoxe imputable à la Guyane française. Ancré sur la façade septentrionale de l'Amérique du Sud, ce territoire partage 730 kilomètres de démarcation avec l'État brésilien au cœur de la sylve amazonienne, surclassant ainsi les 623 kilomètres de la frontière pyrénéenne. Loin d'être un simple vestige colonial, la Guyane s'avère être un département d'outre-mer institutionnalisé depuis 1946, régi par l'arsenal législatif républicain. Ses administrés, de citoyenneté européenne, ont cours de l'euro, conférant de facto à l'Union européenne une frontière terrestre contiguë avec la jungle impénétrable. En outre, le sanctuaire naturel le plus vaste de l'Hexagone ne gît point dans les massifs alpins, mais bien sous les latitudes guyanaises, abritant une biodiversité foisonnante de jaguars et d'anacondas. Une telle configuration géopolitique atteste éloquemment que la souveraineté française ne se cantonne guère au Vieux Continent, mais s'affranchit des limites continentales.",
+        "B2": {
+          "title": "L'insolite record frontalier de la France",
+          "content": "Lorsqu'on s'interroge sur l'État possédant la plus vaste frontière terrestre avec l'Hexagone, la logique nous pousse spontanément à citer l'Espagne ou l'Italie. Contre toute attente, c'est le géant brésilien qui détient ce titre méconnu. Cette anomalie géographique s'explique par la présence de la Guyane française. Établi sur la côte nord de l'Amérique du Sud, ce territoire trace une démarcation de 730 kilomètres avec le Brésil, serpentant à travers l'épaisse jungle amazonienne. Cette distance éclipse largement les 623 kilomètres séparant la France de son voisin pyrénéen. Il convient d'ailleurs de souligner que la Guyane n'a rien d'un territoire subordonné. Elle constitue un département à part entière depuis 1946, régi par les mêmes lois que la métropole. Ses résidents, pleinement citoyens européens, emploient la monnaie unique au quotidien. Dès lors, l'Union européenne maintient une véritable frontière physique avec la forêt tropicale. De surcroît, le plus vaste parc national français s'y niche, abritant une faune sauvage endémique. Cette réalité géopolitique démontre parfaitement que la souveraineté française transcende les frontières continentales de l'Europe.",
           "quiz": [
             {
-              "text": "Quel terme qualifie le mieux le statut de la Guyane selon le texte ?",
+              "text": "Que révèle ce texte sur la géographie de la France ?",
               "options": {
-                "A": "Un protectorat temporaire sans lien avec l'Union européenne",
-                "B": "Un département intégré doté des mêmes lois que la métropole",
-                "C": "Une ancienne colonie autonome gérée par le Brésil",
-                "D": "Un territoire exclusivement réservé à la préservation de la faune"
+                "A": "Ses frontières européennes sont immenses",
+                "B": "Ses territoires ultramarins modifient ses frontières",
+                "C": "La Guyane est un pays indépendant",
+                "D": "L'Espagne est son seul voisin"
               },
               "answer": "B"
             },
             {
-              "text": "Quelle est la principale conséquence géopolitique de cette situation pour l'Union européenne ?",
+              "text": "Quelle est la conséquence pour l'Union européenne ?",
               "options": {
-                "A": "Union européenne partage une frontière directe avec l'Amazonie brésilienne",
-                "B": "L'Europe n'a plus aucune frontière terrestre en dehors de la France métropolitaine",
-                "C": "L'euro n'est pas accepté sur ce territoire sud-américain",
-                "D": "Les frontières pyrénéennes deviennent les plus longues du continent"
+                "A": "Elle partage une frontière avec l'Amazonie",
+                "B": "Elle n'a plus de frontières terrestres",
+                "C": "Elle refuse d'utiliser l'euro en Guyane",
+                "D": "Elle contrôle toute l'Amérique du Sud"
               },
               "answer": "A"
+            }
+          ]
+        },
+        "C1": {
+          "title": "Le paradoxe amazonien de la République française",
+          "content": "Interrogé sur l'identité du principal pays frontalier de l'Hexagone, l'observateur non averti mentionnera d'emblée l'Espagne ou l'Allemagne. C'est pourtant le Brésil qui s'impose incontestablement, un paradoxe contre-intuitif imputable à l'existence de la Guyane française. Ancré sur la façade septentrionale de l'Amérique du Sud, ce territoire délimite 730 kilomètres de démarcation avec l'État brésilien au cœur de l'inexpugnable sylve amazonienne, surclassant allègrement la frontière pyrénéenne. Loin d'être un simple vestige de l'ère coloniale, la Guyane s'avère être un département ultramarin institutionnalisé depuis 1946 et soumis au même arsenal législatif que la métropole. Ses administrés, jouissant pleinement de la citoyenneté européenne, ont cours de l'euro, conférant de facto à l'Union européenne une frontière terrestre contiguë avec la jungle sud-américaine. En outre, le sanctuaire naturel le plus étendu de la nation ne gît point dans les massifs alpins, mais bien sous ces latitudes tropicales, préservant une biodiversité foisonnante. Une telle configuration géopolitique atteste avec éloquence que la souveraineté française ne se cantonne guère au Vieux Continent, mais s'affranchit allègrement des contingences continentales.",
+          "quiz": [
+            {
+              "text": "Quel terme qualifie le mieux le statut de la Guyane ?",
+              "options": {
+                "A": "Un protectorat autonome indépendant",
+                "B": "Un département intégré à la métropole",
+                "C": "Une colonie gérée par le Brésil",
+                "D": "Un territoire réservé aux animaux"
+              },
+              "answer": "B"
+            },
+            {
+              "text": "Qu'est-ce que ce texte illustre sur la souveraineté française ?",
+              "options": {
+                "A": "Qu'elle se limite strictement à l'Europe",
+                "B": "Qu'elle s'affranchit des limites continentales",
+                "C": "Qu'elle dépend entièrement de l'Union européenne",
+                "D": "Qu'elle est contestée par le géant brésilien"
+              },
+              "answer": "B"
             }
           ]
         }
@@ -141,12 +141,12 @@
     {
       "id": 2,
       "originalTitle": "Croissant",
-      "category": "歴史",
+      "category": "グルメ ",
       "imageUrl": "https://drive.google.com/file/d/1m19GVZd22Nt98vlR9s-fRrRqq6cu_JWS/view?usp=drive_link",
       "levels": {
         "A1": {
           "title": "La surprise du croissant",
-          "content": "En France, on aime beaucoup le croissant. Le matin, on mange le croissant avec un café. C'est délicieux et très populaire ! Mais, le croissant n'est pas un pain français. C'est une très grande surprise ! Le croissant vient en réalité d'un autre pays. Il vient de l'Autriche, un pays en Europe. À Vienne, les boulangers font un petit pain. Ce pain ressemble à une lune dans le ciel. Marie Antoinette, une reine très célèbre, arrive en France. Elle vient d'Autriche pour habiter à Paris. Elle apporte le croissant avec elle dans ses valises. Les Français adorent ce nouveau pain sucré. Aujourd'hui, le croissant est le symbole de la France. Tout le monde pense que c'est cent pour cent français. Mais son histoire secrète est bien autrichienne.",
+          "content": "En France, on aime beaucoup le croissant. Le matin, on le mange avec un grand café. C'est délicieux et très populaire dans tout le pays ! Mais le croissant n'est pas un pain français. C'est une très grande surprise pour tout le monde. Il vient d'Autriche, un autre pays en Europe. À Vienne, les boulangers font un petit pain spécial. Il ressemble exactement à une lune dans le ciel. La reine Marie-Antoinette arrive en France. Elle vient d'Autriche pour habiter à Paris avec le roi. Elle apporte ce petit pain dans ses valises. Les Français adorent ce nouveau produit très sucré. Aujourd'hui, le croissant est le grand symbole de la France. Tout le monde pense que c'est cent pour cent français. Mais son histoire secrète est bien autrichienne.",
           "quiz": [
             {
               "text": "D'où vient le croissant ?",
@@ -172,20 +172,20 @@
         },
         "A2": {
           "title": "L'histoire secrète du croissant",
-          "content": "Le croissant est la grande star des boulangeries françaises. Tous les matins, les Français mangent cette célèbre viennoiserie. Ils le trempent très souvent dans leur café ou leur chocolat chaud. Pourtant, le croissant n'a pas été inventé sur le territoire français. Son origine est autrichienne, plus précisément de la ville de Vienne. En 1683, la ville de Vienne était violemment attaquée par les Ottomans. Pour célébrer leur victoire, les boulangers ont créé un nouveau pain. La forme de ce pain imitait le drapeau de l'armée ennemie. C'était un petit pain en forme de demi-lune, très original. Plus tard, la reine Marie-Antoinette est venue habiter en France. Elle était d'origine autrichienne et sa région natale lui manquait. Alors, elle a demandé à ses cuisiniers de préparer ce petit pain. C'est exactement comme ça que le croissant est arrivé à Paris. Avec le temps, la recette a changé pour devenir légère et feuilletée. Aujourd'hui, c'est le symbole ultime du petit-déjeuner français !",
+          "content": "Le croissant est la grande star des boulangeries françaises. Tous les matins, les Français mangent cette célèbre viennoiserie avec leur café ou leur chocolat. Pourtant, le croissant n'a pas été inventé en France. Son origine est autrichienne, de la belle ville de Vienne. En 1683, la ville est violemment attaquée par les Ottomans. Pour célébrer leur grande victoire, les boulangers créent un nouveau pain. La forme de ce pain imite le drapeau de l'armée ennemie. C'est un petit pain en forme de lune. Plus tard, la reine Marie-Antoinette vient habiter en France. Son pays natal lui manque beaucoup. Elle demande alors à ses cuisiniers de préparer ce petit pain. C'est comme ça que le croissant arrive à Paris. Avec le temps, la recette change pour devenir plus légère. Aujourd'hui, c'est le symbole ultime du petit-déjeuner français !",
           "quiz": [
             {
-              "text": "Pourquoi le croissant a-t-il cette forme de demi-lune ?",
+              "text": "Pourquoi le croissant a-t-il cette forme ?",
               "options": {
-                "A": "Pour imiter la lune dans la nuit",
+                "A": "Pour imiter la lune",
                 "B": "Pour copier un drapeau ennemi",
-                "C": "Pour être plus facile à manger",
-                "D": "Pour entrer dans une tasse de café"
+                "C": "Pour être plus facile",
+                "D": "Pour entrer dans une tasse"
               },
               "answer": "B"
             },
             {
-              "text": "Quelle reine célèbre a introduit le croissant en France ?",
+              "text": "Quelle reine introduit le croissant en France ?",
               "options": {
                 "A": "Marie de Médicis",
                 "B": "Marie-Antoinette",
@@ -198,25 +198,25 @@
         },
         "B1": {
           "title": "Une pâtisserie pas si française",
-          "content": "Le croissant est sans doute l'aliment français le plus célèbre à l'étranger. Pourtant, il faut savoir que cette délicieuse pâtisserie n'est pas originaire de France. En effet, son histoire incroyable commence en Autriche, dans la ville de Vienne. La légende raconte qu'au dix-septième siècle, l'Empire ottoman a essayé d'envahir Vienne. Les boulangers, qui travaillaient la nuit, ont donné l'alerte et ont sauvé la ville. Pour fêter cette grande victoire historique, ils ont imaginé une nouvelle création. Ils ont cuisiné une brioche en forme de croissant de lune, l'emblème de leurs adversaires. C'est bien plus tard que cette spécialité a enfin franchi les frontières françaises. On dit souvent que c'est grâce à Marie-Antoinette, princesse autrichienne devenue reine. En arrivant à la cour de Versailles, elle a introduit les pâtisseries de son pays natal. C'est d'ailleurs pour cette raison qu'on appelle encore ces produits des \"viennoiseries\". Cependant, le croissant que nous connaissons aujourd'hui a beaucoup évolué. Les artisans boulangers parisiens du vingtième siècle ont modifié la recette originale. Ils ont décidé d'utiliser de la pâte feuilletée et d'ajouter énormément de beurre. C'est cette version beurrée et croustillante qui a finalement conquis le monde entier !",
+          "content": "Le croissant est sans doute l'aliment français le plus célèbre à l'étranger. Pourtant, il faut savoir que cette délicieuse pâtisserie n'est pas originaire de France. En effet, son histoire incroyable commence en Autriche, dans la ville de Vienne. La légende raconte qu'au dix-septième siècle, l'Empire ottoman a essayé d'envahir la ville. Les boulangers, qui travaillaient la nuit, ont donné l'alerte et ont sauvé les habitants. Pour fêter cette victoire historique, ils ont imaginé une nouvelle création. Ils ont cuisiné une brioche en forme de croissant de lune, l'emblème de leurs adversaires. C'est bien plus tard que cette spécialité a enfin franchi les frontières françaises. On dit souvent que c'est grâce à Marie-Antoinette, princesse autrichienne devenue reine de France. En arrivant à la cour de Versailles, elle a introduit les pâtisseries de son pays natal. Les artisans boulangers parisiens du vingtième siècle ont ensuite modifié la recette originale. Ils ont décidé d'utiliser de la pâte feuilletée et d'ajouter énormément de beurre pour la rendre croustillante.",
           "quiz": [
             {
-              "text": "Qui a sauvé la ville de Vienne selon la célèbre légende ?",
+              "text": "Qui a sauvé la ville de Vienne ?",
               "options": {
                 "A": "L'armée française",
-                "B": "Les boulangers qui travaillaient la nuit",
+                "B": "Les boulangers travaillant la nuit",
                 "C": "La reine Marie-Antoinette",
-                "D": "Les soldats de l'Empire ottoman"
+                "D": "Les soldats ennemis"
               },
               "answer": "B"
             },
             {
-              "text": "Pourquoi appelle-t-on le croissant et le pain au chocolat des \"viennoiseries\" ?",
+              "text": "Pourquoi appelle-t-on cela des viennoiseries ?",
               "options": {
-                "A": "Parce qu'ils viennent de la ville de Vienne",
-                "B": "Parce que c'est le nom d'une vieille recette",
-                "C": "Parce que le créateur s'appelait Vienne",
-                "D": "Parce que ce sont des spécialités parisiennes"
+                "A": "Elles viennent de Vienne",
+                "B": "C'est une très vieille recette",
+                "C": "Le créateur s'appelait Vienne",
+                "D": "C'est une spécialité parisienne"
               },
               "answer": "A"
             }
@@ -224,10 +224,10 @@
         },
         "B2": {
           "title": "L'illusion gastronomique du croissant",
-          "content": "Il est difficile d'imaginer un symbole gastronomique plus emblématique de la France que le croissant. Toutefois, ce monument incontesté de la culture culinaire hexagonale cache des origines inattendues. L'histoire véritable du croissant nous ramène en Europe centrale, directement au cœur de l'Autriche. Le précurseur de notre croissant est le \"Kipferl\", une petite pâtisserie de forme incurvée originaire de Vienne. La légende veut que sa forme soit un hommage à la résistance victorieuse des Viennois face au siège ottoman de 1683. Le croissant de lune, figurant sur les drapeaux de l'armée ennemie, aurait été reproduit en pâte par les boulangers locaux. L'introduction de ce mets sur le territoire français est traditionnellement attribuée à la célèbre reine Marie-Antoinette. Nostalgique de sa terre natale, l'épouse de Louis XVI aurait popularisé le fameux Kipferl à la cour de Versailles. Néanmoins, il faudra attendre le début du vingtième siècle pour que le croissant acquière sa texture feuilletée actuelle. En effet, le Kipferl d'origine s'apparentait davantage à une brioche dense et compacte, très différente d'aujourd'hui. Ce sont les artisans boulangers parisiens qui ont eu la brillante idée de lui appliquer la technique de la pâte feuilletée. L'ajout particulièrement généreux de beurre a permis d'obtenir cette légèreté et ce croustillant totalement incomparables. L'ironie réside dans le fait que cette appropriation culinaire est devenue l'étendard mondial de l'art de vivre à la française. Ce voyage culturel illustre parfaitement la façon dont la gastronomie se transforme et s'enrichit au fil du temps. Ainsi, chaque fois que vous dégustez cette \"viennoiserie\", vous croquez littéralement dans un morceau d'histoire européenne.",
+          "content": "Il est difficile d'imaginer un symbole gastronomique plus emblématique de la France que le croissant. Toutefois, ce monument incontesté de la culture culinaire hexagonale cache des origines inattendues. L'histoire véritable du croissant nous ramène en Europe centrale, directement au cœur de l'Autriche. Le précurseur de notre croissant est le Kipferl, une petite pâtisserie de forme incurvée originaire de Vienne. La légende veut que sa forme soit un hommage à la résistance victorieuse des Viennois face au siège ottoman de 1683. Le croissant de lune, figurant sur les drapeaux de l'armée ennemie, aurait été reproduit en pâte par les boulangers locaux. L'introduction de ce mets sur le territoire français est traditionnellement attribuée à la célèbre reine Marie-Antoinette. Nostalgique de sa terre natale, l'épouse de Louis XVI aurait popularisé le fameux Kipferl à la cour de Versailles. Néanmoins, il faudra attendre le début du vingtième siècle pour que le croissant acquière sa texture feuilletée actuelle. En effet, le Kipferl d'origine s'apparentait davantage à une brioche dense et compacte. Ce sont les artisans boulangers parisiens qui ont eu la brillante idée de lui appliquer la technique de la pâte feuilletée. L'ajout particulièrement généreux de beurre a permis d'obtenir cette légèreté et ce croustillant totalement incomparables. L'ironie réside dans le fait que cette appropriation culinaire est devenue l'étendard mondial de l'art de vivre à la française.",
           "quiz": [
             {
-              "text": "Quel est le nom exact du précurseur autrichien de l'actuel croissant ?",
+              "text": "Quel est le nom du précurseur autrichien ?",
               "options": {
                 "A": "Le traditionnel Pretzel",
                 "B": "Le fameux Strudel",
@@ -237,12 +237,12 @@
               "answer": "C"
             },
             {
-              "text": "Quelle modification majeure et décisive les boulangers parisiens ont-ils apportée à la recette originale ?",
+              "text": "Quelle modification décisive les Parisiens ont-ils apportée ?",
               "options": {
                 "A": "L'ajout généreux de sucre perlé",
-                "B": "L'utilisation experte de la pâte feuilletée",
-                "C": "L'adoption de la forme en demi-lune",
-                "D": "La cuisson traditionnelle au feu de bois"
+                "B": "L'utilisation de la pâte feuilletée",
+                "C": "L'adoption de la forme incurvée",
+                "D": "La cuisson au feu de bois"
               },
               "answer": "B"
             }
@@ -250,27 +250,165 @@
         },
         "C1": {
           "title": "Le paradoxe du croissant : genèse d'un emblème",
-          "content": "Archétype incontesté de l'art de vivre à la française, le croissant trône en maître absolu sur les étals de nos boulangeries. Il est pourtant de notoriété publique, du moins chez les férus d'histoire culinaire, que cette viennoiserie est l'illustration parfaite d'une acculturation réussie. Genèse d'un véritable mythe, l'ancêtre du croissant, baptisé \"Kipferl\", a vu le jour dans les méandres de l'Empire austro-hongrois. L'historiographie populaire aime à narrer que sa silhouette atypique commémore la levée inespérée du siège de Vienne en 1683. Les artisans boulangers, œuvrant aux aurores, auraient ainsi nargué l'envahisseur ottoman en calquant délibérément la forme de leur emblème. Si l'imagerie d'Épinal attribue son importation à Marie-Antoinette, désireuse de pallier le mal du pays à Versailles, la réalité historique s'avère plus nuancée. L'engouement parisien pour les spécialités viennoises s'est véritablement cristallisé au milieu du dix-neuvième siècle grâce à des entrepreneurs autrichiens précurseurs. Toutefois, la métamorphose radicale de cette roborative pâte briochée en un délice purement aérien incombe bel et bien au génie hexagonal. L'application magistrale du tourage, technique exigeante propre à la pâte feuilletée, l'a fondamentalement transfiguré au tournant du vingtième siècle. L'incorporation opulente de beurre cru a ainsi conféré au croissant contemporain sa friabilité caractéristique et ses alvéoles vertigineuses. Il est savoureusement piquant de constater que ce produit d'importation, savamment réinterprété, incarne désormais l'apogée du chauvinisme gastronomique français. Déguster un croissant au beurre n'est donc pas un acte anodin, mais bien une vibrante célébration des carrefours historiques et culturels européens.",
+          "content": "Archétype incontesté de l'art de vivre à la française, le croissant trône en maître absolu sur les étals de nos boulangeries. Il est pourtant de notoriété publique que cette viennoiserie est l'illustration parfaite d'une acculturation réussie. Genèse d'un véritable mythe, l'ancêtre du croissant, baptisé Kipferl, a vu le jour dans les méandres de l'Empire austro-hongrois. L'historiographie populaire aime à narrer que sa silhouette atypique commémore la levée inespérée du siège de Vienne en 1683. Les artisans boulangers, œuvrant aux aurores, auraient ainsi nargué l'envahisseur ottoman en calquant délibérément la forme de leur emblème. Si l'imagerie d'Épinal attribue son importation à Marie-Antoinette, désireuse de pallier le mal du pays à Versailles, la réalité historique s'avère plus nuancée. L'engouement parisien pour les spécialités viennoises s'est véritablement cristallisé au milieu du dix-neuvième siècle grâce à des entrepreneurs autrichiens précurseurs. Toutefois, la métamorphose radicale de cette roborative pâte briochée en un délice purement aérien incombe bel et bien au génie hexagonal. L'application magistrale du tourage, technique exigeante propre à la pâte feuilletée, l'a fondamentalement transfiguré au tournant du vingtième siècle. L'incorporation opulente de beurre cru a ainsi conféré au croissant contemporain sa friabilité caractéristique et ses alvéoles vertigineuses. Il est savoureusement piquant de constater que ce produit d'importation, savamment réinterprété, incarne désormais l'apogée du chauvinisme gastronomique français.",
           "quiz": [
             {
-              "text": "Selon l'analyse du texte, qui a véritablement cristallisé l'engouement des Parisiens pour les viennoiseries au 19e siècle ?",
+              "text": "Qui a véritablement cristallisé cet engouement parisien ?",
               "options": {
-                "A": "Les caprices nostalgiques de Marie-Antoinette",
-                "B": "L'initiative de certains entrepreneurs autrichiens",
-                "C": "La défaite retentissante de l'Empire ottoman",
-                "D": "Le savoir-faire des artisans de la cour de Versailles"
+                "A": "Les caprices de Marie-Antoinette",
+                "B": "Des entrepreneurs autrichiens précurseurs",
+                "C": "L'Empire ottoman vaincu",
+                "D": "Les artisans de Versailles"
               },
               "answer": "B"
             },
             {
-              "text": "Quelle technique boulangère spécifique a permis de métamorphoser la brioche originelle en l'actuel croissant moderne ?",
+              "text": "Quelle technique a métamorphosé la brioche originelle ?",
               "options": {
-                "A": "Le processus complexe d'acculturation culinaire",
-                "B": "La maîtrise d'une fermentation prolongée",
-                "C": "L'application exigeante de la technique du tourage",
-                "D": "L'incorporation abondante de levain naturel"
+                "A": "Le processus d'acculturation culinaire",
+                "B": "Une fermentation très prolongée",
+                "C": "L'application de la technique du tourage",
+                "D": "L'incorporation de levain naturel"
               },
               "answer": "C"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 3,
+      "originalTitle": "Vitton",
+      "category": "ファッション",
+      "imageUrl": "https://drive.google.com/file/d/1rE8AdNAb5ktzrMptvxCUd-MQuAktEhav/view?usp=drive_link",
+      "levels": {
+        "A1": {
+          "title": "Le secret du sac de luxe",
+          "content": "Le logo Louis Vuitton est très célèbre dans le monde entier. Il y a des fleurs et des lettres sur les sacs. Mais connaissez-vous l'origine de ce joli dessin ? En mille huit cent quatre-vingt-seize, Georges Vuitton veut protéger ses valises. Beaucoup de gens copient le travail de son père. À cette époque, les Français aiment beaucoup le Japon. Georges regarde l'art japonais pour trouver une bonne idée. Il utilise les dessins traditionnels des familles japonaises. On appelle ces symboles anciens les kamon. C'est un bel hommage aux samouraïs du Japon. Aujourd'hui, tout le monde connaît ces petites fleurs dorées. C'est amusant car ce dessin créé pour arrêter les copies est maintenant très copié !",
+          "quiz": [
+            {
+              "text": "Pourquoi Georges Vuitton crée-t-il ce dessin ?",
+              "options": {
+                "A": "Pour faire joli",
+                "B": "Pour arrêter les copies",
+                "C": "Pour vendre au Japon",
+                "D": "Pour son père"
+              },
+              "answer": "B"
+            },
+            {
+              "text": "De quel pays vient l'inspiration du logo ?",
+              "options": {
+                "A": "De la Chine",
+                "B": "De la France",
+                "C": "Du Japon",
+                "D": "De l'Italie"
+              },
+              "answer": "C"
+            }
+          ]
+        },
+        "A2": {
+          "title": "Le mystère du logo le plus copié du monde",
+          "content": "Vous connaissez certainement la marque française Louis Vuitton et ses célèbres sacs à main. Le dessin avec les lettres et les fleurs dorées est très connu de tous. Mais ce motif cache un secret historique très intéressant. En 1896, Georges Vuitton était fatigué parce que d'autres personnes copiaient les malles de sa famille. Il devait inventer un nouveau dessin très difficile à reproduire. À Paris, c'était la grande mode de l'art asiatique et de la culture japonaise. Georges a donc étudié les kamon, qui sont les symboles traditionnels des familles de samouraïs au Japon. Il a dessiné des cercles et des fleurs géométriques pour décorer ses nouvelles valises. Ce logo est donc un bel hommage à l'histoire japonaise. L'histoire est amusante, car ce motif inventé pour empêcher les fausses valises est devenu le dessin le plus copié sur la planète.",
+          "quiz": [
+            {
+              "text": "Quel problème Georges Vuitton voulait-il résoudre en 1896 ?",
+              "options": {
+                "A": "Le manque de clients",
+                "B": "Le prix des matériaux",
+                "C": "La copie de ses malles",
+                "D": "La taille des sacs"
+              },
+              "answer": "C"
+            },
+            {
+              "text": "Que sont les kamon japonais ?",
+              "options": {
+                "A": "Des armes de guerre",
+                "B": "Des symboles de familles",
+                "C": "Des vêtements traditionnels",
+                "D": "Des fleurs sauvages"
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        "B1": {
+          "title": "L'étonnant secret japonais du monogramme Louis Vuitton",
+          "content": "Tout le monde a déjà vu le célèbre monogramme Louis Vuitton avec ses fleurs dorées et ses initiales entrelacées. Cependant, la plupart des gens ignorent que ce motif parisien cache en réalité un secret lié aux samouraïs. À la fin du dix-neuvième siècle, en 1896, Georges Vuitton en avait assez de voir les créations de son père systématiquement plagiées par des concurrents. Pour déjouer ces faussaires, il lui fallait absolument concevoir un design impossible à imiter. À cette époque, Paris vivait une véritable passion pour le Japon et ses objets d'art. Le créateur s'est alors directement inspiré des kamon, qui sont les emblèmes héraldiques portés par les clans japonais et les samouraïs sur leurs kimonos. Les fleurs géométriques et les cercles épurés du luxe français sont donc un hommage direct à l'aristocratie japonaise. C'est le plus grand paradoxe de la mode car ce motif créé spécialement pour éradiquer la contrefaçon est aujourd'hui le design le plus piraté au monde.",
+          "quiz": [
+            {
+              "text": "Pourquoi Georges Vuitton cherchait-il un motif complexe ?",
+              "options": {
+                "A": "Pour plaire aux clients japonais",
+                "B": "Pour rendre les malles plus légères",
+                "C": "Pour lutter contre les faussaires",
+                "D": "Pour changer l'image de la marque"
+              },
+              "answer": "C"
+            },
+            {
+              "text": "De quoi s'est-il inspiré pour créer ce monogramme ?",
+              "options": {
+                "A": "Des jardins parisiens",
+                "B": "Des emblèmes de samouraïs",
+                "C": "Des kimonos en soie",
+                "D": "Des estampes chinoises"
+              },
+              "answer": "B"
+            }
+          ]
+        },
+        "B2": {
+          "title": "Le célèbre monogramme parisien et le mystère des samouraïs",
+          "content": "Vous pensez probablement tout connaître de l'emblématique monogramme Louis Vuitton, ce quadrillage luxueux de fleurs dorées et de lettres savamment entrelacées. Pourtant, ce symbole absolu du chic parisien ne trouve pas ses racines dans l'imagination d'un créateur en quête de faste, mais répondait à un besoin purement pragmatique. En 1896, Georges Vuitton, exaspéré de voir les célèbres malles familiales sans cesse plagiées, décide de concevoir un motif indéchiffrable pour décourager les faussaires. Paris traverse alors sa grande période de japonisme, une véritable frénésie pour l'esthétique asiatique. Fin observateur, Georges puise son inspiration dans les kamon, ces blasons héraldiques médiévaux que les illustres familles de samouraïs arboraient fièrement sur leurs kimonos. La fleur à quatre pétales et les figures géométriques épurées constituent ainsi un hommage inattendu à l'aristocratie nippone. L'ironie du sort est particulièrement cruelle pour la maison de couture car cette identité visuelle, originellement élaborée pour éradiquer le plagiat, détient aujourd'hui le triste record du design le plus contrefait à l'échelle mondiale.",
+          "quiz": [
+            {
+              "text": "Quel était l'objectif initial du motif créé en 1896 ?",
+              "options": {
+                "A": "Célébrer l'art contemporain",
+                "B": "Séduire une nouvelle clientèle",
+                "C": "Décourager les contrefaçons",
+                "D": "Lancer la mode du japonisme"
+              },
+              "answer": "C"
+            },
+            {
+              "text": "Que représentent les figures géométriques du logo ?",
+              "options": {
+                "A": "Un hommage aux samouraïs",
+                "B": "Une invention purement parisienne",
+                "C": "Les initiales de la famille",
+                "D": "Un blason royal français"
+              },
+              "answer": "A"
+            }
+          ]
+        },
+        "C1": {
+          "title": "Le paradoxe du monogramme : quand le luxe parisien s'approprie l'héraldique nippone",
+          "content": "Si le monogramme Louis Vuitton incarne aujourd'hui l'archétype du luxe ostentatoire, sa genèse révèle des motivations bien plus pragmatiques, profondément ancrées dans une stratégie de protection intellectuelle. Loin d'être le fruit d'une simple quête esthétique, ce savant entrelacs de motifs floraux et d'initiales fut conçu en 1896 par Georges Vuitton, alors exaspéré par le plagiat endémique qui frappait les créations paternelles. Afin de déjouer l'habileté des faussaires, il lui fallait imaginer un canevas graphique d'une complexité inédite. Mettant à profit l'engouement frénétique de la capitale pour le japonisme, le malletier tourne son regard vers l'Orient. Il s'approprie astucieusement l'esthétique des kamon, ces emblèmes claniques médiévaux que l'aristocratie et les samouraïs arboraient jadis sur leurs luxueux kimonos de cérémonie. Cette transposition de l'épure géométrique japonaise sur la toile enduite française constitue un brillant exercice de syncrétisme culturel. L'histoire ne manque toutefois pas de cynisme, puisque cet ingénieux dispositif anticipe un échec cuisant : le motif originellement destiné à éradiquer la contrefaçon s'est inéluctablement mué en l'emblème le plus allègrement piraté de la planète.",
+          "quiz": [
+            {
+              "text": "Quelle fut la véritable motivation de Georges Vuitton en 1896 ?",
+              "options": {
+                "A": "Satisfaire la frénésie du japonisme",
+                "B": "Concevoir une toile moins onéreuse",
+                "C": "Contrer le plagiat endémique",
+                "D": "Renouveler l'esthétique des kimonos"
+              },
+              "answer": "C"
+            },
+            {
+              "text": "Quel terme définit le mieux le destin de ce monogramme ?",
+              "options": {
+                "A": "Un triomphe artistique absolu",
+                "B": "Un paradoxe profondément cynique",
+                "C": "Une alliance commerciale réussie",
+                "D": "Un hommage purement diplomatique"
+              },
+              "answer": "B"
             }
           ]
         }
