@@ -2,6 +2,7 @@
   "articles": [
     {
       "id": 1,
+      "date": "2026-09-07T15:00:00.000Z",
       "originalTitle": "Longest border",
       "category": "地理",
       "imageUrl": "https://drive.google.com/file/d/1cKmPOEMhm1cLDfYLekwVpszeOHM8QctE/view?usp=drive_link",
@@ -140,6 +141,7 @@
     },
     {
       "id": 2,
+      "date": "2026-09-08T15:00:00.000Z",
       "originalTitle": "Croissant",
       "category": "グルメ ",
       "imageUrl": "https://drive.google.com/file/d/1m19GVZd22Nt98vlR9s-fRrRqq6cu_JWS/view?usp=drive_link",
@@ -278,6 +280,7 @@
     },
     {
       "id": 3,
+      "date": "2026-09-09T15:00:00.000Z",
       "originalTitle": "Vitton",
       "category": "ファッション",
       "imageUrl": "https://drive.google.com/file/d/1kJ7hAQ5AjkgJfm6auQDFPJCy4uNxMPPc/view?usp=drive_link",
@@ -416,6 +419,7 @@
     },
     {
       "id": 4,
+      "date": "2026-09-09T15:00:00.000Z",
       "originalTitle": "Étages",
       "category": "歴史",
       "imageUrl": "https://drive.google.com/file/d/17zfWBJ10ACJtPXurBcM9d-foM8x35xot/view?usp=drive_link",
@@ -554,6 +558,7 @@
     },
     {
       "id": 5,
+      "date": "2026-09-10T15:00:00.000Z",
       "originalTitle": "Joconde",
       "category": "芸術",
       "imageUrl": "https://drive.google.com/file/d/1_KAdJDyVi2w9uEFPzs5LebSfl-1Tq3HM/view?usp=drive_link",
@@ -692,6 +697,7 @@
     },
     {
       "id": 6,
+      "date": "2026-09-10T15:00:00.000Z",
       "originalTitle": "Drapeau",
       "category": "歴史",
       "imageUrl": "https://drive.google.com/file/d/1OLxvyDIC1KHgpSxYRNO1uDPg95v0IAd3/view?usp=drive_link",
